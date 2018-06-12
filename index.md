@@ -1,11 +1,12 @@
-#Introduction
-###Mingjie Sun
+# Introduction
 
-Master candidate in Circuit and System, UESTC.
+### Mingjie Sun
 
-Research Interest: Battery Management System
+Master candidate in *Circuit and System*, UESTC.
 
-Email: sunmj1127@163.com
+**search Interest:** Battery Management System
 
-#Achievement
+**Email:** sunmj1127@163.com
+
+# Achievement
 
